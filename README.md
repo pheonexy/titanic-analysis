@@ -1,9 +1,9 @@
-#🚢 Titanic Survival Prediction
+# 🚢 Titanic Survival Prediction
 
-##📖 Project Overview
+## 📖 Project Overview
 This project analyzes the famous Titanic dataset to uncover survival patterns and build predictive models. The dataset contains passenger information such as age, gender, ticket class, and survival status.
 
-##📊 Dataset
+## 📊 Dataset
 Source: Kaggle Titanic Dataset (kaggle.com in Bing)
 
 Key columns:
@@ -20,7 +20,7 @@ Fare: Ticket price
 
 Embarked: Port of embarkation
 
-##🛠 Methods
+## 🛠 Methods
 Data Cleaning: Handle missing values, drop duplicates.
 
 Exploratory Analysis: Survival rates by gender, age, and class.
@@ -31,7 +31,7 @@ Feature Engineering: Create new features (e.g., FamilySize, Title).
 
 Modeling: Logistic Regression, Random Forest, etc.
 
-##📈 Results
+## 📈 Results
 Women had a much higher survival rate than men.
 
 1st class passengers survived more often than 3rd class.
@@ -44,7 +44,7 @@ Bar plot of survival by gender
 
 Heatmap of feature correlations
 
-##📂 Repository Structure
+## 📂 Repository Structure
 
 titanic-survival-analysis-prediction/
 │
