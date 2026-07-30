@@ -1,5 +1,5 @@
 # 🚢 Titanic Survival Prediction
-
+ End-to-end data analysis of Titanic dataset
 ## 📖 Project Overview
 This project analyzes the famous Titanic dataset to uncover survival patterns and build predictive models. The dataset contains passenger information such as age, gender, ticket class, and survival status.
 
